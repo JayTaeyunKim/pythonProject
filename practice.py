@@ -1,5 +1,1 @@
-while True:
-    line = fp.readline()
-    if not line:
-        break
-fp.close()
+print("hello world!")
